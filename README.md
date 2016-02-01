@@ -1,0 +1,2 @@
+# DemoProject
+Standalone demo project
